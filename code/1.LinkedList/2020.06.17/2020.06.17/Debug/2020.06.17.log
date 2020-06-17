@@ -1,0 +1,7 @@
+﻿  2020.06.17.cpp
+d:\github_code\leetcode-daily-practice\code\1.linkedlist\2020.06.17\2020.06.17\2020.06.17.cpp(13): error C2143: syntax error: missing ';' before '*'
+d:\github_code\leetcode-daily-practice\code\1.linkedlist\2020.06.17\2020.06.17\2020.06.17.cpp(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\github_code\leetcode-daily-practice\code\1.linkedlist\2020.06.17\2020.06.17\2020.06.17.cpp(13): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+d:\github_code\leetcode-daily-practice\code\1.linkedlist\2020.06.17\2020.06.17\2020.06.17.cpp(32): error C2143: syntax error: missing ';' before '*'
+d:\github_code\leetcode-daily-practice\code\1.linkedlist\2020.06.17\2020.06.17\2020.06.17.cpp(32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\github_code\leetcode-daily-practice\code\1.linkedlist\2020.06.17\2020.06.17\2020.06.17.cpp(32): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
