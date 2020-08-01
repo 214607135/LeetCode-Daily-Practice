@@ -11,3 +11,5 @@ Guess it will start at 06/17/2020.
 # LeetCode-everyWeekend-Practice
 
 I found that I cannot concentrate in workdays, so I change it to every week's tasks.
+
+Did not update for a quite long time, hope I can update tomorrow just for one!
