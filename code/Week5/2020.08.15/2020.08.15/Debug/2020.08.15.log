@@ -1,0 +1,8 @@
+﻿  2020.08.15.cpp
+d:\github_code\leetcode-weekly-practice\code\week5\2020.08.15\2020.08.15\2020.08.15.cpp(9): error C2061: syntax error: identifier 'vector'
+d:\github_code\leetcode-weekly-practice\code\week5\2020.08.15\2020.08.15\2020.08.15.cpp(11): error C2065: 'height': undeclared identifier
+d:\github_code\leetcode-weekly-practice\code\week5\2020.08.15\2020.08.15\2020.08.15.cpp(13): error C2065: 'height': undeclared identifier
+d:\github_code\leetcode-weekly-practice\code\week5\2020.08.15\2020.08.15\2020.08.15.cpp(13): error C3861: 'min': identifier not found
+d:\github_code\leetcode-weekly-practice\code\week5\2020.08.15\2020.08.15\2020.08.15.cpp(14): error C3861: 'max': identifier not found
+d:\github_code\leetcode-weekly-practice\code\week5\2020.08.15\2020.08.15\2020.08.15.cpp(15): error C2065: 'height': undeclared identifier
+d:\github_code\leetcode-weekly-practice\code\week5\2020.08.15\2020.08.15\2020.08.15.cpp(16): error C2065: 'height': undeclared identifier
